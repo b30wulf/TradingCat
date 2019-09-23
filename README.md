@@ -1,2 +1,2 @@
-# TradingCat
-Trading Cat
+TradingCat is an AI-powered automated trading platform for people who don't need to know anything about trade.
+##############################################################################################################
