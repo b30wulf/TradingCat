@@ -1,7 +1,7 @@
 ﻿namespace Core.DataAccess.Entities
 {
-    public abstract class BaseEntity : IEntity
+    public abstract class BaseEntity<T> : IEntity
     {
-        public int Id { get; set; }
+        public T Id { get; set; }
     }
 }

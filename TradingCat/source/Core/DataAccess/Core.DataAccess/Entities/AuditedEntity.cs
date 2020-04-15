@@ -2,7 +2,7 @@
 
 namespace Core.DataAccess.Entities
 {
-    public abstract class AuditedEntity : BaseEntity
+    public abstract class AuditedEntity : BaseEntity<int>
     {
         public bool IsDeleted { get; set; }
         public int? DeleterId { get; set; }
