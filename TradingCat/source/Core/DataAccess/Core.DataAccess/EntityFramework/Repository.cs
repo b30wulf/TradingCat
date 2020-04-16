@@ -1,5 +1,5 @@
-﻿using Core.DataAccess.Entities;
-using Core.DataAccess.Repositories;
+﻿using Core.DataAccess.Repositories;
+using Core.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
