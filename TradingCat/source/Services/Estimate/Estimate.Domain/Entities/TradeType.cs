@@ -1,6 +1,6 @@
 using Core.Domain.Entities;
 
-namespace Estimate.Domain.Entity
+namespace Estimate.Domain.Entities
 {
     public class TradeType : BaseEntity<int>
     {
